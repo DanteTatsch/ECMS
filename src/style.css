@@ -1,0 +1,56 @@
+
+
+
+.nav-bar{
+  background-color:#273d50;
+  padding: 14px 0;
+
+  
+   
+}
+
+
+.nav-bar a{
+  color:white;
+  text-decoration:none;
+  font-size:1em; 
+  
+}
+.color:link:hover {  background:#53a7ea}
+
+
+
+.nav-bar ul{
+
+  width: 700px;
+  margin-left: auto;
+  margin-right: 70px;
+  
+}
+
+
+
+
+.flex-nav-bar-ul{
+  display:flex;
+  justify-content:space-between;
+  list-style-type: none;
+  
+}
+
+  
+  
+.footer{
+  text-align:center; 
+  color: #273d50;  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color:white;
+  
+}
+
+.contato{
+  margin-left: 10%;
+}
